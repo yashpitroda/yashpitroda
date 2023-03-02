@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yashpitroda
 - 👀 I’m interested in codding, business & finance analytics.
 - 🌱 I’m currently learning Machine-Learning.
-- 💬 Ask me about Java,Flutter(dart),Python,JavaScript
+- 💬 Ask me about Java,Flutter(dart),Python,c++
 - 📫 How to reach me yashpitroda06@gmail.com
 
 <!---
